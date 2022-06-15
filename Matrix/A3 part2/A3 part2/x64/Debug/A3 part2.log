@@ -1,0 +1,151 @@
+﻿  Matrix2.cpp
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(16,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(54): message : see reference to class template instantiation 'Matrix2<T>' being compiled
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(16,1): warning C4183: 'Matrix': missing return type; assumed to be a member function returning 'int'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(19,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(19,1): warning C4183: 'Matrix': missing return type; assumed to be a member function returning 'int'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(22,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(22,21): error C2143: syntax error: missing ',' before '&'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(22,1): warning C4183: 'Matrix': missing return type; assumed to be a member function returning 'int'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(23,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(23,51): error C2143: syntax error: missing ',' before '&'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(24,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(24,51): error C2143: syntax error: missing ',' before '&'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(26,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(26,14): error C2143: syntax error: missing ';' before '&'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(26,8): error C2365: 'Matrix2<T>::Matrix': redefinition; previous definition was 'member function'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(26,1): error C2238: unexpected token(s) preceding ';'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(27,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(27,14): error C2143: syntax error: missing ';' before '&'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(27,8): error C2365: 'Matrix2<T>::Matrix': redefinition; previous definition was 'member function'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(27,1): error C2238: unexpected token(s) preceding ';'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(28,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(28,14): error C2143: syntax error: missing ';' before '&'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(28,8): error C2365: 'Matrix2<T>::Matrix': redefinition; previous definition was 'member function'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(28,1): error C2238: unexpected token(s) preceding ';'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(29,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(29,14): error C2143: syntax error: missing ';' before '&'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(29,8): error C2365: 'Matrix2<T>::Matrix': redefinition; previous definition was 'member function'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(29,1): error C2238: unexpected token(s) preceding ';'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(30,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(30,15): error C2143: syntax error: missing ';' before '+'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(30,8): error C2365: 'Matrix2<T>::Matrix': redefinition; previous definition was 'member function'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(30,25): error C2061: syntax error: identifier 'Matrix'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(31,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(31,15): error C2143: syntax error: missing ';' before '-'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(31,8): error C2365: 'Matrix2<T>::Matrix': redefinition; previous definition was 'member function'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(31,25): error C2061: syntax error: identifier 'Matrix'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(32,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(32,15): error C2143: syntax error: missing ';' before '*'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(32,8): error C2365: 'Matrix2<T>::Matrix': redefinition; previous definition was 'member function'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(32,25): error C2061: syntax error: identifier 'Matrix'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(34,9): error C3646: 'create': unknown override specifier
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(34,15): error C2059: syntax error: '('
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(34,1): error C2238: unexpected token(s) preceding ';'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(35,24): error C2061: syntax error: identifier 'Matrix'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(38,1): error C2523: 'Matrix2<T>::~Matrix': destructor tag mismatch
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(13,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(13,1): error C2244: 'Matrix2::Matrix': unable to match function definition to an existing declaration
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(13): message : see declaration of 'Matrix2::Matrix'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(13,1): message : definition
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(13,1): message : 'int Matrix2::Matrix(void)'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(13,1): message : existing declarations
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(13,1): message : 'int Matrix2<T>::Matrix(const int)'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(13,1): message : 'int Matrix2<T>::Matrix(int,int)'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(13,1): message : 'int Matrix2<T>::Matrix(void)'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(35,10): error C2955: 'Matrix2': use of class template requires template argument list
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(11): message : see declaration of 'Matrix2'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(35,31): error C2509: 'Matrix': member function not declared in 'Matrix2'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.h(11): message : see declaration of 'Matrix2'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(56,6): error C2653: 'Matrix': is not a class or namespace name
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(58,6): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(58,22): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(59,12): error C2065: 'M': undeclared identifier
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(59,13): error C2541: 'delete': cannot delete objects that are not pointers
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(60,3): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(61,3): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(62,3): error C2065: 'M': undeclared identifier
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(62,11): error C2061: syntax error: identifier 'T'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(65,4): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(65,21): error C2061: syntax error: identifier 'T'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(72,4): error C2065: 'M': undeclared identifier
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(76,1): error C2653: 'Matrix': is not a class or namespace name
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(76,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(76,28): error C2143: syntax error: missing ',' before '&'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(76,33): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(78,2): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(78,12): error C2065: 'B': undeclared identifier
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(79,2): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(79,12): error C2065: 'B': undeclared identifier
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(81,2): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(81,22): error C2065: 'm': undeclared identifier
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(82,22): error C2065: 'm': undeclared identifier
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(84,3): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(84,24): error C2065: 'n': undeclared identifier
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(87,22): error C2065: 'm': undeclared identifier
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(90,23): error C2065: 'n': undeclared identifier
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(92,4): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(92,20): error C2065: 'B': undeclared identifier
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(97,1): warning C4508: 'Matrix': function should return a value; 'void' return type assumed
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(99,12): error C2653: 'Matrix': is not a class or namespace name
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(101,2): error C2065: 'm': undeclared identifier
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(101,2): error C2065: 'n': undeclared identifier
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(103,9): error C2065: 'M': undeclared identifier
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(106,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(106,13): error C2143: syntax error: missing ';' before '&'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(106,7): error C2365: 'Matrix': redefinition; previous definition was 'function'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(76): message : see declaration of 'Matrix'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(106,15): error C2653: 'Matrix': is not a class or namespace name
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(106,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(106,46): error C2146: syntax error: missing ')' before identifier 'B'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(106,46): error C3646: 'B': unknown override specifier
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(106,47): error C2059: syntax error: ')'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(106,49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(106,49): error C2059: syntax error: '{'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(106,49): error C2143: syntax error: missing ';' before '{'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(106,49): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(124,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(124,13): error C2143: syntax error: missing ';' before '&'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(124,7): error C2365: 'Matrix': redefinition; previous definition was 'function'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(76): message : see declaration of 'Matrix'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(124,15): error C2653: 'Matrix': is not a class or namespace name
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(124,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(124,41): error C2146: syntax error: missing ')' before identifier 'B'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(124,44): error C2143: syntax error: missing ';' before '{'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(124,44): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(144,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(144,13): error C2143: syntax error: missing ';' before '&'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(144,7): error C2365: 'Matrix': redefinition; previous definition was 'function'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(76): message : see declaration of 'Matrix'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(144,15): error C2653: 'Matrix': is not a class or namespace name
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(144,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(144,41): error C2146: syntax error: missing ')' before identifier 'B'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(144,44): error C2143: syntax error: missing ';' before '{'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(144,44): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(165,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(165,13): error C2143: syntax error: missing ';' before '&'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(165,7): error C2365: 'Matrix': redefinition; previous definition was 'function'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(76): message : see declaration of 'Matrix'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(165,15): error C2653: 'Matrix': is not a class or namespace name
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(165,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(165,41): error C2146: syntax error: missing ')' before identifier 'B'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(165,44): error C2143: syntax error: missing ';' before '{'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(165,44): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(188,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(188,14): error C2653: 'Matrix': is not a class or namespace name
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(188,7): error C2365: 'Matrix': redefinition; previous definition was 'function'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(76): message : see declaration of 'Matrix'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(188,31): error C2146: syntax error: missing ';' before identifier '+'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(188,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(188,39): error C2146: syntax error: missing ')' before identifier 'B'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(188,47): error C2143: syntax error: missing ';' before '{'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(188,47): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(205,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(205,14): error C2653: 'Matrix': is not a class or namespace name
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(205,7): error C2365: 'Matrix': redefinition; previous definition was 'function'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(76): message : see declaration of 'Matrix'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(205,31): error C2146: syntax error: missing ';' before identifier '-'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(205,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(205,39): error C2146: syntax error: missing ')' before identifier 'B'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(205,48): error C2143: syntax error: missing ';' before '{'
+C:\Users\vij15\OneDrive\Desktop\Matrix\A3 part2\A3 part2\Matrix2.cpp(205,48): fatal error C1003: error count exceeds 100; stopping compilation

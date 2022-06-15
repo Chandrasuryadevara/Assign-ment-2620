@@ -1,0 +1,2 @@
+When matrix with incompatible dimensions was given without assert it gives an exemption saying "Access violation reading location".
+but with assert function we can make it run for compatible dimensions matrix only (if incompatible dimension given then it will abort thr program)
